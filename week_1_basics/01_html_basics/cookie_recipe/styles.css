@@ -9,3 +9,8 @@ h1{
 a{
 	color: #900;
 }
+
+img{
+	border-style: solid;
+	border-width: 1px;
+}
