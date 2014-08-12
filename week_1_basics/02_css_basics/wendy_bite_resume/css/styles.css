@@ -1,4 +1,4 @@
-body{
+body {
 	background: #444444;
 	color: #fff;
 	font-family: 'Georgia' serif;
@@ -14,7 +14,7 @@ h1 {
 
 }
 
-h2{ 
+h2 { 
 	font-weight: bold;
 	font-size: 26px;
 	font-family: 'Arial' sans-serif;
@@ -24,20 +24,20 @@ a {
 	color: #15cb97;
 }
 
-img{
+img {
+	border: 2px solid #777777;
 	float: right;
 	margin: 15px;
-	border: 2px solid #777777;
 	padding: 5px;
 }
 
-hr{
+hr {
+	border: 1px solid #777777;
 	width: 90%;
-	color: #777777;
 
 }
 
-footer{
+footer {
 	text-align: center;
 	font-weight: bold;
 	font-size: 18px;
@@ -45,27 +45,26 @@ footer{
 	margin: 40px auto;
 }
 
-.nav{
-	text-align: center;
+.nav {
 	font-weight: bold;
 	font-size: 18px;
 	font-family: 'Arial' sans-serif;
 	margin-bottom: 40px;
+	text-align: center;
 
 }
 
-.content{
+.content {
 	border: 4px solid #777777;
-	width: 90%;
 	margin: 40px auto;
-	min-height: 700px;
+	width: 90%;
 }
 
 
 
 
 .about {
-	text-align: left;
 	margin: 40px auto;
+	text-align: left;
 	width: 90%;
 }
