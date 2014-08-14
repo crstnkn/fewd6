@@ -30,7 +30,6 @@ h2 a{
 
 h3{
 	font-size: 45px;
-	font-weight: 300;
 	color: #DDD;
 	margin-top: 100px;
 
@@ -46,7 +45,6 @@ h4 a {
 a {
 	color: #f30000;
 	text-decoration: none;
-	font-weight: 300;
 }
 
 a:hover{
@@ -64,6 +62,10 @@ nav a{
 
 nav a:hover{
 		border-bottom:2px solid #A00;	
+}
+
+img{
+	width: 800px;
 }
 
 .dropcap {

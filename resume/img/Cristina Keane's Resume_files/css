@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v9/cJZKeOuBrn4kERxqtaUH3ZBw1xU1rKptJj_0jans920.woff2) format('woff2'), url(http://fonts.gstatic.com/s/opensans/v9/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v9/k3k702ZOKiLJc3WVjuplzBampu5_7CjHW5spxoeN3Vs.woff2) format('woff2'), url(http://fonts.gstatic.com/s/opensans/v9/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Open Sans Light Italic'), local('OpenSansLight-Italic'), url(http://fonts.gstatic.com/s/opensans/v9/PRmiXeptR36kaC0GEAetxtTIkQYohD4BpHvJ3NvbHoA.woff2) format('woff2'), url(http://fonts.gstatic.com/s/opensans/v9/PRmiXeptR36kaC0GEAetxvR_54zmj3SbGZQh3vCOwvY.woff) format('woff');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Titillium WebThin'), local('TitilliumWeb-Thin'), url(http://fonts.gstatic.com/s/titilliumweb/v3/anMUvcNT0H1YN4FII8wprwncwICprNeqbmuPE2HfhOU.woff2) format('woff2'), url(http://fonts.gstatic.com/s/titilliumweb/v3/anMUvcNT0H1YN4FII8wpr-K9kSItTeDn2USN0q77Oh4.woff) format('woff');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: italic;
+  font-weight: 200;
+  src: local('Titillium WebThin Italic'), local('TitilliumWeb-ThinItalic'), url(http://fonts.gstatic.com/s/titilliumweb/v3/RZunN20OBmkvrU7sA4GPPhd7TTgBBEGVxkjmQgbPAyw.woff2) format('woff2'), url(http://fonts.gstatic.com/s/titilliumweb/v3/RZunN20OBmkvrU7sA4GPPvTdIrrWFKtkerHRAIjOAnE.woff) format('woff');
+}

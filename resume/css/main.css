@@ -1,0 +1,46 @@
+html, body{
+	background-color: #F1EEEE;
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+
+.content{
+	width:900px;
+	margin: 0 auto;
+	background-color: #FFF;
+
+}
+
+header{
+	height: 170px;
+	background-image: url(../img/bg1.jpg);
+	background-size: cover;
+}
+
+h1{
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 200;
+	font-size: 80px;
+	margin: 0;
+	line-height: 120px;
+
+}
+
+h2{
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 200;
+	font-style: italic;
+	font-size: 40px;
+	margin: 0;
+	line-height: 5px;
+
+}
+
+.name {
+	float: left;
+	width: 600px;
+	padding-left: 30px;
+	color: #FFF;
+
+}
