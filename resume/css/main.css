@@ -3,9 +3,10 @@ html, body{
 	margin: 0;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
+	color: #666666;
 }
 
-.content{
+.content {
 	width:900px;
 	margin: 0 auto;
 	background-color: #FFF;
@@ -37,6 +38,18 @@ h2{
 
 }
 
+h3{
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	color: #8DD6BA;
+}
+
+h4{
+	font-size: 18px;
+	font-weight: 700;
+}
+
 .name {
 	float: left;
 	width: 600px;
@@ -44,3 +57,55 @@ h2{
 	color: #FFF;
 
 }
+
+.contact {
+	float: left;
+	width: 250px;
+	color: #FFF;
+	font-weight: 700;
+	font-size: 15px;
+	margin-top: 15px;
+}
+
+.contact img{
+	vertical-align: middle;
+	height: 27px;
+}
+
+.contact a{
+	color: #fff;
+}
+
+
+.info{
+	width: 800px;
+}
+
+
+.column{
+	width: 400px;
+	float: left;
+	background-color: #FFF;
+	padding-left: 30px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	padding-right: 20px; 
+	line-height: 20px;
+	height: 930px;
+}
+
+ul {
+    list-style: none;
+    padding:0;
+    margin:0;
+    line-height: 20px;
+}
+
+li:before {
+    content: "•";
+    color: #8DD6BA;
+    padding-right: 20px;
+}
+
+
+
